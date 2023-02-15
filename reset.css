@@ -1,0 +1,64 @@
+.logo{
+	text-align: center;
+}
+
+.h3{
+	line-height: 5pt;
+}
+
+h3{
+	text-align: center;
+	font-family:Georgia;
+	font-size: 30;
+	color:#4b5052; 
+}
+
+
+#newpassword{
+	width: 500px;
+	height: 70px;
+	border-radius: 15px;
+	border: 3px solid #4b5052; 
+	box-shadow: 3px 3px 8px 0 #000; 
+	padding: 20px;
+	background-color: lightgray;
+
+}
+
+#re_newpassword{
+	width: 500px;
+	height: 70px;
+	border-radius: 15px;
+	border: 3px solid #4b5052;
+	box-shadow: 3px 3px 8px 0 #000;
+	padding: 20px;
+	background-color: lightgray;
+}
+
+#submit{
+	width: 500px;
+	height: 70px;
+	border-radius: 15px;
+	border: 3px solid #4b5052;
+	box-shadow: 3px 3px 8px 0 #000;
+	cursor: pointer;
+	background-color: darkgreen;
+	font-size: ;
+}
+.submit{
+	text-align: center;
+}
+
+
+.form{ 
+	text-align: center;
+}
+#help{
+		width: 100px;
+		height: 35px;
+		border-radius: 10px;
+		background-color: darkgreen;
+		font-size: 15px;
+		font-weight: bold;
+		color: black;
+}

@@ -1,0 +1,72 @@
+		#logo2{
+			text-align: center;
+			background-color: yellow;
+		}
+		.student{
+			text-align: center;
+		}
+		#student{
+			width: 150px;
+			border-radius: 30px;
+
+		}
+		#studentbtn{
+			width: 500px;
+			height: 100px;
+			border-radius: 30px;
+			font-size: 20px;
+		
+		}
+		.faculty{
+			text-align: center;
+		}
+
+		#faculty{
+			width: 150px;
+			border-radius: 30px;
+		}
+		#facultybtn{
+			width: 500px;
+			height: 100px;
+			border-radius: 30px;
+			font-size: 20px;
+		}
+		.parent{
+			text-align: center;
+		}
+		#parent{
+			width: 150px;
+			border-radius: 30px;
+
+		}
+		#parentbtn{
+			width: 500px;
+			height: 100px;
+			border-radius: 30px;
+			font-size: 20px;
+		}
+		.label{
+			text-align: center;
+		}
+		#label{
+			font-weight: bold;
+			font-size: 30px;
+		}
+		.logo{
+			text-align: center;
+		}
+		#help{
+			font-weight: bold;
+			font-size: 20px;
+		}
+		#helpbtn{
+			width: 100px;
+			height: 35px;
+			border-radius: 10px;
+			background-color: darkgreen;
+			font-size: 15px;
+			font-weight: bold;
+			color: black;
+		}
+
+

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  
+<body>
+    <h1>Assignment Allotment </h1>
+  
+    <h3>
+        Upload Assignment file here        
+    </h3>
+  
+    <form action="assignmentUpload.php" method="post" enctype="multipart/form-data">
+        <label>Enter Subject Name</label>
+        <input type="text" name="subject" id="subject">
+        <label>Enter upload Date</label>
+        <input type="Date" name="uploadDate" id="uploadDate">
+        <label>Enter the Expiry Date</label>
+        <input type="Date" name="expiryDate" id="expiryDate"> 
+        <label for="myfile">Select a file:</label>
+        <input type="file" id="myfile" name="facuAssignmentUpload" />
+        <br /><br />
+        <input type="submit" value="Upload" />
+    </form>
+</body>
+  
+</html>

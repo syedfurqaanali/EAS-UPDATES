@@ -1,0 +1,90 @@
+#logo{
+	text-align: center;
+	width: 100%;
+}
+
+#profile{
+	width: 100px;
+}
+
+#profileicon{
+	text-align: center;
+
+}
+
+.systemid{
+	text-align: center;
+	
+}
+.password{
+	text-align: center;
+}
+.loginbtn{
+	text-align: center;
+}
+#systemid{
+	width: 500px;
+	height: 50px;
+	border-radius: 10px;
+	/*border: 10px solid black;*/
+	background: lightgray;
+	color: black;
+	padding: 10px;
+	padding-left: 10px;
+	/*border: 3px solid #4b5052;
+	box-shadow: 3px 3px 8px 0 #000;*/
+
+}
+
+#password{
+	width:500px;
+	height: 50px;
+	border-radius: 10px;
+	background: lightgray;
+	color: black;
+	padding: 10px;
+	padding-right: 10px;
+
+}
+
+#login{
+	width: 525px;
+	height: 70px;
+	border-radius: 10px;
+	background: darkgreen;
+	color: black;
+	padding: 10px;
+	padding-right: 10px;
+	font-size: 20px;
+	font-weight: bold;
+	/*border: 3px solid #4b5052;*/
+	/*box-shadow: 3px 3px 8px 0 #000;*/
+}
+
+#cancellogin{
+	width: 200px;
+	height: 50px;
+	background: darkgreen;
+	border-radius: 7px;
+	font-size: 20px;
+}
+
+.forgot{
+	text-align: right;
+}
+input::placeholder {
+	color: black;
+	font-family: sans-serif;
+	font-weight: bold;
+	
+}
+input:hover{
+	background-color: yellow;
+	border: 1px solid #999;
+    border-radius: 5px;
+    background: yellow;
+}
+
+#rememberme{
+	size: 50;
+}

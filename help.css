@@ -1,0 +1,44 @@
+.logo{
+	text-align: center;
+}
+#email{
+	width:500px;
+	height: 50px;
+	border-radius: 10px;
+	background: lightgray;
+	color: black;
+	padding: 10px;
+	padding-right: 10px;
+}
+.email{
+	text-align: center;
+}
+.textarea{
+	text-align: center;
+
+}
+
+#textarea{
+	width:500px;
+	height: 300px;
+	border-radius: 10px;
+	background: lightgray;
+	color: black;
+	padding: 10px;
+	padding-right: 10px;
+}
+
+#textbtn{
+	width:500px;
+	height: 50px;
+	border-radius: 10px;
+	background: darkgreen;
+	color: black;
+	padding: 10px;
+	padding-right: 10px;
+	text-align: center;
+}
+
+.submit{
+	text-align: center;
+}
